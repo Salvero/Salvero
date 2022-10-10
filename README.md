@@ -1,10 +1,12 @@
-Hi 👋 My name is Salman Akram
+Hi Everyone! 👋 
+
+I'm Salmon </> {nickname}
 =============================
 
 Frontend Developer
 ------------------
 
-I am an enthusiastic self-taught & Frontend developer who loves React!
+I am an enthusiastic self-taught & Frontend developer who loves JavaScript & React!
 
 * 🌍  I'm based in Fort Erie, Ontario - Canada
 * 🖥️  See my portfolio at [SalmanDev.co (under construction...)](http://salmandev.co)
