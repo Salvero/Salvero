@@ -8,8 +8,7 @@ Frontend Developer
 
 I am an enthusiastic self-taught & Frontend developer who loves JavaScript & React!
 
-* 🌍  I'm based in Fort Erie, Ontario - Canada
-* 🖥️  See my portfolio at [SalmanDev.co (under construction...)](http://salmandev.co)
+* 🌍  I'm based in Ridgeway, Ontario - Canada
 * ✉️  You can contact me at [salmandev15@gmail.com](mailto:salmandev15@gmail.com)
 * 🧠  I'm learning React & NodeJS
 * 🤝  I'm open to collaborating on Projects
