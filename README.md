@@ -3,9 +3,6 @@ Hi Everyone! 👋
 I'm Salmon </> {nickname}
 =============================
 
-Frontend Developer
-------------------
-
 I am an enthusiastic self-taught & Frontend developer who loves JavaScript & React!
 
 * 🌍  I'm based in Ridgeway, Ontario - Canada
