@@ -5,11 +5,10 @@ I'm Salmon </> {nickname}
 
 I am an enthusiastic self-taught & Frontend developer who loves JavaScript & React!
 
-* 🌍  I'm based in Ridgeway, Ontario - Canada
-* ✉️  You can contact me at [salmandev15@gmail.com](mailto:salmandev15@gmail.com)
+* 🌍  I'm based in Fort Erie, Ontario - Canada
 * 🧠  I'm learning React & NodeJS
 * 🤝  I'm open to collaborating on Projects
-* ⚡  I am Hard of Hearing
+* 🚀  <a href="https://www.linkedin.com/in/salmanakram-7i>Linkedin</a> & <a href="https://twitter.com/salvero3i">Twitter </a>
 
 ### Skills
 
