@@ -8,7 +8,7 @@ I am an enthusiastic self-taught & Frontend developer who loves JavaScript & Rea
 * 🌍  I'm based in Ontario, Canada
 * 🧠  I'm learning React & NodeJS
 * 🤝  I'm open to collaborating on Projects
-* 🚀   <a href="https://www.linkedin.com/in/salmanakram-7i" target="_blank">Linkedin</a> & <a href="https://twitter.com/salvero3i" target="_blank">Twitter </a>
+* 🚀   <a href="https://www.linkedin.com/in/salmanakram-7i" target="_blank">Linkedin</a>
 
 ### Skills
 
