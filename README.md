@@ -36,17 +36,5 @@ Currently, I am focused on:
 ### 💻 Technical Expertise
 
 Instead of just using tools, I select the right stack for the job. Here is my preferred heavy artillery:
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Frontend Core** | JavaScript (ES6+), TypeScript, React, Next.js, HTML5, CSS3/SCSS |
-| **State & UI** | Redux Toolkit, Context API, Tailwind CSS, Material UI, Framer Motion |
-| **Backend & API** | Node.js, Express, REST Architecture, GraphQL |
-| **DevOps & Tools** | Git/GitHub, Docker, Webpack, Babel, CI/CD Pipelines, Netlify/Vercel |
-
----
-
-<div align="center">
-  <p><i>Open to discussions regarding Full-Stack & Frontend Engineering roles.</i></p>
   <p><b>Let's build something scalable together.</b></p>
 </div>
