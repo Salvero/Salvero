@@ -1,46 +1,52 @@
-# Hi there, I'm Salman! 👋
-
-I am an enthusiastic self-taught Frontend Developer based in Ontario, Canada 🇨🇦. I have a passion for building beautiful, responsive, and user-friendly web applications using modern technologies like React, Next.js, and TailwindCSS.
-
-- 🌍  Based in Ontario, Canada
-- 🧠  Currently learning React & NodeJS
-- 🤝  Open to collaborating on interesting projects
-- 🚀  [LinkedIn](https://www.linkedin.com/in/salmanakram-7i)
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJS" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
-
-## 🚀 Featured Projects
-
-### 🌱 [Growhaus Plants](https://growhaus-plants.netlify.app/)
-A modern, responsive e-commerce plant shop featuring a beautiful UI, product filtering, and a seamless shopping experience.
-![Growhaus Plants](assets/growhaus-home.png)
-
-### 📊 [EcoPulse Dashboard](https://ecopulse-dashboard.netlify.app/)
-A comprehensive environmental data visualization dashboard tracking air quality, energy consumption, and more with interactive charts and dark mode support.
-![EcoPulse Dashboard](assets/ecopulse-dashboard.png)
-
-## 📈 GitHub Stats
-
 <div align="center">
-  <a href="http://www.github.com/salvero"><img src="https://github-readme-stats.vercel.app/api?username=salvero&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="salvero's GitHub stats" /></a>
-  <br/>
-  <a href="http://www.github.com/salvero"><img src="https://github-readme-streak-stats.herokuapp.com/?user=salvero&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+# Hi, I'm Salman.
+### Senior Full-Stack Engineer
+#### Specializing in Scalable Web Architecture & Performance Optimization
+
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/salmanakram-7i)
+[![Portfolio](https://img.shields.io/badge/View-Portfolio-black?style=for-the-badge&logo=vercel)](https://github.com/salvero)
+
 </div>
 
-## 📫 Connect with me
+---
 
-<p align="left">
-  <a href="https://www.github.com/salvero" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-  <a href="https://www.linkedin.com/in/salmanakram-7i/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-  <a href="https://www.twitter.com/salvero3i" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-</p>
+### 🚀 About Me
+
+I am a results-driven engineer focused on building robust, accessible, and high-performance web applications. I bridge the gap between complex backend logic and intuitive frontend design. My expertise lies in the JavaScript ecosystem, cloud infrastructure, and delivering production-ready code that drives business value.
+
+Currently, I am focused on:
+*   **Architecting** scalable single-page applications (SPAs).
+*   **Optimizing** frontend performance and Core Web Vitals.
+*   **Developing** secure RESTful APIs and microservices.
+
+---
+
+### 🛠 Featured Projects
+
+| **Growhause Plants** | **EcoPulse Dashboard** |
+| :--- | :--- |
+| <a href="https://growhaus-plants.netlify.app/"><img src="assets/growhaus-home.png" width="100%" alt="Growhause"></a> | <a href="https://ecopulse-dashboard.netlify.app/"><img src="assets/ecopulse-dashboard.png" width="100%" alt="EcoPulse"></a> |
+| **E-Commerce Architecture** | **Data Visualization & Analytics** |
+| A modern e-commerce solution featuring a custom shopping cart implementation, complex state management, and optimized asset delivery for high-traffic scalability. | A comprehensive environmental dashboard aggregating real-time data. Features interactive charting, dark mode implementation, and responsive grid layouts for data reporting. |
+| 🔗 [**Live Demo**](https://growhaus-plants.netlify.app/) | 🔗 [**Live Demo**](https://ecopulse-dashboard.netlify.app/) |
+
+---
+
+### 💻 Technical Expertise
+
+Instead of just using tools, I select the right stack for the job. Here is my preferred heavy artillery:
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Frontend Core** | JavaScript (ES6+), TypeScript, React, Next.js, HTML5, CSS3/SCSS |
+| **State & UI** | Redux Toolkit, Context API, Tailwind CSS, Material UI, Framer Motion |
+| **Backend & API** | Node.js, Express, REST Architecture, GraphQL |
+| **DevOps & Tools** | Git/GitHub, Docker, Webpack, Babel, CI/CD Pipelines, Netlify/Vercel |
+
+---
+
+<div align="center">
+  <p><i>Open to discussions regarding Full-Stack & Frontend Engineering roles.</i></p>
+  <p><b>Let's build something scalable together.</b></p>
+</div>
