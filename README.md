@@ -7,9 +7,6 @@
 
 *Turning complex problems into elegant, production-ready solutions.*
 
-<br/>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salvero&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 </div>
 
@@ -74,5 +71,4 @@ Instead of just using tools, I select the right stack for the job. Here is my pr
   <br/>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/salmanakram-7i)
-  [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail)](mailto:your.email@example.com)
 </div>
