@@ -1,11 +1,11 @@
 <div align="center">
 
-# Hi, I'm Salman.
+# Hi, I'm Salman 👋
 ### Senior Full-Stack Engineer
-#### Specializing in Scalable Web Architecture & Performance Optimization
 
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/salmanakram-7i)
-[![Portfolio](https://img.shields.io/badge/View-Portfolio-black?style=for-the-badge&logo=vercel)](https://github.com/salvero)
+**Building scalable web applications with modern JavaScript, cloud infrastructure, and pixel-perfect UIs.**
+
+*Turning complex problems into elegant, production-ready solutions.*
 
 </div>
 
