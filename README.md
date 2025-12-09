@@ -7,6 +7,10 @@
 
 *Turning complex problems into elegant, production-ready solutions.*
 
+<br/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salvero&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
 </div>
 
 ---
@@ -29,7 +33,7 @@ Currently, I am focused on:
 | <a href="https://appointhub.onrender.com/"><img src="assets/appointhub-dashboard.png" width="100%" alt="AppointHub"></a> | <a href="https://syncspace-app-ashen.vercel.app/"><img src="assets/syncspace-canvas.png" width="100%" alt="SyncSpace"></a> |
 | **Appointment Scheduling Platform** | **Real-time Collaborative Canvas** |
 | A full-stack scheduling solution for service businesses. Features analytics dashboard with revenue tracking, staff management, customer database, and booking workflows for seamless operations. | An AI-powered brainstorming canvas with infinite workspace, real-time multi-user sync, and keyboard-first interactions. Enables rapid ideation with zero friction and smart note generation. |
-| 🔗 [**Live Demo**](https://appointhub.onrender.com/) | 🔗 [**Live Demo**](https://syncspace-app-ashen.vercel.app/) |
+| 🔗 [**Live Demo**](https://appointhub.onrender.com/) ・ 📂 [**Source**](https://github.com/Salvero/AppointHub) | 🔗 [**Live Demo**](https://syncspace-app-ashen.vercel.app/) ・ 📂 [**Source**](https://github.com/Salvero/SyncSpace) |
 
 <br/>
 
@@ -38,7 +42,7 @@ Currently, I am focused on:
 | <a href="https://growhaus-plants.netlify.app/"><img src="assets/growhaus-home.png" width="100%" alt="Growhause"></a> | <a href="https://ecopulse-dashboard.netlify.app/"><img src="assets/ecopulse-dashboard.png" width="100%" alt="EcoPulse"></a> |
 | **E-Commerce Architecture** | **Data Visualization & Analytics** |
 | A modern e-commerce solution featuring a custom shopping cart implementation, complex state management, and optimized asset delivery for high-traffic scalability. | A comprehensive environmental dashboard aggregating real-time data. Features interactive charting, dark mode implementation, and responsive grid layouts for data reporting. |
-| 🔗 [**Live Demo**](https://growhaus-plants.netlify.app/) | 🔗 [**Live Demo**](https://ecopulse-dashboard.netlify.app/) |
+| 🔗 [**Live Demo**](https://growhaus-plants.netlify.app/) ・ 📂 [**Source**](https://github.com/Salvero/growhaus-plants) | 🔗 [**Live Demo**](https://ecopulse-dashboard.netlify.app/) ・ 📂 [**Source**](https://github.com/Salvero/ecopulse-dashboard) |
 
 ---
 
@@ -55,7 +59,20 @@ Instead of just using tools, I select the right stack for the job. Here is my pr
 
 ---
 
+### 🌱 Currently Learning
+
+- **Go** — Building high-performance backend services
+- **PostgreSQL** — Advanced query optimization & database design
+- **AWS Lambda** — Serverless architecture patterns
+
+---
+
 <div align="center">
   <p><i>Open to discussions regarding Full-Stack & Frontend Engineering roles.</i></p>
   <p><b>Let's build something scalable together.</b></p>
+  
+  <br/>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/salmanakram-7i)
+  [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail)](mailto:your.email@example.com)
 </div>
