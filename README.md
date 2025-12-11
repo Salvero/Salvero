@@ -27,7 +27,7 @@ Currently, I am focused on:
 
 | **EcoPulse Dashboard** | **SyncSpace** |
 | :--- | :--- |
-| <a href="https://ecopulse-dashboard.netlify.app/"><img src="assets/ecopulse-dashboard.png" width="100%" alt="EcoPulse"></a> | <a href="https://syncspace-app-ashen.vercel.app/"><img src="assets/syncspace-canvas.png" width="100%" alt="SyncSpace"></a> |
+| <a href="https://ecopulse-dashboard.netlify.app/"><img src="assets/ecopulse-dashboard.png" width="100%" alt="EcoPulse"></a> | <a href="https://syncspace-app-ashen.vercel.app/"><img src="assets/syncspace-canvas.png?v=2" width="100%" alt="SyncSpace"></a> |
 | **AI Energy Analytics Platform** | **Real-time Collaborative Canvas** |
 | A full-stack AI dashboard with LSTM neural network for energy forecasting. Features real-time WebSocket telemetry, multi-city tracking, and dynamic data visualization with dark/light themes. | An AI-powered brainstorming canvas with infinite workspace, real-time multi-user sync, and keyboard-first interactions. Enables rapid ideation with zero friction and smart note generation. |
 | 🔗 [**Live Demo**](https://ecopulse-dashboard.netlify.app/) ・ 📂 [**Source**](https://github.com/Salvero/ecopulse-dashboard) | 🔗 [**Live Demo**](https://syncspace-app-ashen.vercel.app/) ・ 📂 [**Source**](https://github.com/Salvero/SyncSpace) |
