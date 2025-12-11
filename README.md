@@ -37,8 +37,8 @@ Currently, I am focused on:
 | **Growhause Plants** | **EcoPulse Dashboard** |
 | :--- | :--- |
 | <a href="https://growhaus-plants.netlify.app/"><img src="assets/growhaus-home.png" width="100%" alt="Growhause"></a> | <a href="https://ecopulse-dashboard.netlify.app/"><img src="assets/ecopulse-dashboard.png" width="100%" alt="EcoPulse"></a> |
-| **E-Commerce Architecture** | **Data Visualization & Analytics** |
-| A modern e-commerce solution featuring a custom shopping cart implementation, complex state management, and optimized asset delivery for high-traffic scalability. | A comprehensive environmental dashboard aggregating real-time data. Features interactive charting, dark mode implementation, and responsive grid layouts for data reporting. |
+| **E-Commerce Architecture** | **AI Energy Analytics Platform** |
+| A modern e-commerce solution featuring a custom shopping cart implementation, complex state management, and optimized asset delivery for high-traffic scalability. | A full-stack AI dashboard with LSTM neural network for energy forecasting. Features real-time WebSocket telemetry, multi-city tracking, and dynamic data visualization with dark/light themes. |
 | 🔗 [**Live Demo**](https://growhaus-plants.netlify.app/) ・ 📂 [**Source**](https://github.com/Salvero/growhaus-plants) | 🔗 [**Live Demo**](https://ecopulse-dashboard.netlify.app/) ・ 📂 [**Source**](https://github.com/Salvero/ecopulse-dashboard) |
 
 ---
