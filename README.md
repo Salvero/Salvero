@@ -1,12 +1,11 @@
 <div align="center">
 
 # Hi, I'm Salman 👋
-### Senior Full-Stack Engineer
+### Full-Stack Engineer
 
 **Building scalable web applications with modern JavaScript, cloud infrastructure, and pixel-perfect UIs.**
 
-*Turning complex problems into elegant, production-ready solutions.*
-
+`Turning complex problems into elegant, production-ready solutions.`
 
 </div>
 
