@@ -50,7 +50,7 @@ Instead of just using tools, I select the right stack for the job. Here is my pr
 | :--- | :--- |
 | **Frontend Architecture** | JavaScript (ES6+), TypeScript, React, Next.js, Redux Toolkit |
 | **Backend & API** | Node.js, Express, Python, REST Architecture, GraphQL, JSON |
-| **Styling & UI** | Tailwind CSS, SCSS, Material UI, Framer Motion |
+| **Styling & UI** | Tailwind CSS, SCSS, Material UI, ShadCN UI, TweakCN, Mobbin, Framer Motion |
 | **Tooling & Workflow** | Git, GitHub, Vercel/Netlify, Cursor, AI-Assisted Development |
 
 ---
