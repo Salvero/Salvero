@@ -71,6 +71,8 @@ Every project in my portfolio was architected and shipped using **Claude Code** 
 
 </div>
 
+<img src="assets/claude-code-stats.jpg" width="100%" alt="Claude Code Usage Statistics" />
+
 > I don't just *use* AI — I leverage it as a force multiplier to ship production-grade code faster, debug smarter, and architect scalable systems from day one.
 
 ---
