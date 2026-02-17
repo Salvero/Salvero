@@ -64,7 +64,7 @@
 <div align="center">
 
 ![Total Tokens](https://img.shields.io/badge/Total_Tokens-1.1M-DA6F2B?style=for-the-badge&logo=anthropic&logoColor=white)
-![Model](https://img.shields.io/badge/Favorite_Model-Opus_4.5-DA6F2B?style=for-the-badge&logo=anthropic&logoColor=white)
+![Model](https://img.shields.io/badge/Favorite_Model-Opus_4.6-DA6F2B?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Sessions](https://img.shields.io/badge/Sessions-80-DA6F2B?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ![Longest Session](https://img.shields.io/badge/Longest_Session-9h_41m-1a1a2e?style=for-the-badge)
