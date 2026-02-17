@@ -1,33 +1,35 @@
 <div align="center">
 
-# Hi, I'm Salman 👋
-### Full-Stack Engineer
+<h1>Hi, I'm Salman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
-**Building scalable web applications with modern JavaScript, cloud infrastructure, and pixel-perfect UIs.**
+<h3>Full-Stack Engineer</h3>
 
-`Turning complex problems into elegant, production-ready solutions.`
+<p><strong>Building scalable web applications with modern JavaScript, cloud infrastructure, and pixel-perfect UIs.</strong></p>
+
+<p><code>Turning complex problems into elegant, production-ready solutions.</code></p>
 
 </div>
 
----
+<br/>
 
-### 🚀 About Me
+## 🚀 About Me
 
-I am a results-driven engineer focused on building robust, accessible, and high-performance web applications. I bridge the gap between complex backend logic and intuitive frontend design. My expertise lies in the JavaScript ecosystem, cloud infrastructure, and delivering production-ready code that drives business value.
+<p>I am a results-driven engineer focused on building robust, accessible, and high-performance web applications. I bridge the gap between complex backend logic and intuitive frontend design. My expertise lies in the JavaScript ecosystem, cloud infrastructure, and delivering production-ready code that drives business value.</p>
 
-Currently, I am focused on:
-*   **Architecting** scalable single-page applications (SPAs).
-*   **Optimizing** frontend performance and Core Web Vitals.
-*   **Developing** secure RESTful APIs and microservices.
+<p>Currently, I am focused on:</p>
 
----
+- **Architecting** scalable single-page applications (SPAs).
+- **Optimizing** frontend performance and Core Web Vitals.
+- **Developing** secure RESTful APIs and microservices.
 
-### 🛠 Featured Projects
+<br/>
+
+## 🛠 Featured Projects
 
 | **EcoPulse Dashboard** | **SyncSpace** |
 | :--- | :--- |
 | <a href="https://ecopulse-dashboard.netlify.app/"><img src="assets/ecopulse-dashboard.png" width="100%" height="200" alt="EcoPulse"></a> | <a href="https://syncspace-app-ashen.vercel.app/"><img src="assets/syncspace-canvas.png?v=2" width="100%" height="200" alt="SyncSpace"></a> |
-| **AI Energy Analytics Platform** | **Real-time Collaborative Canvas** |
+| <strong>AI Energy Analytics Platform</strong> | <strong>Real-time Collaborative Canvas</strong> |
 | A full-stack AI dashboard with LSTM neural network for energy forecasting. Features real-time WebSocket telemetry, multi-city tracking, and dynamic data visualization with dark/light themes. | An AI-powered brainstorming canvas with infinite workspace, real-time multi-user sync, and keyboard-first interactions. Enables rapid ideation with zero friction and smart note generation. |
 | 🔗 [**Live Demo**](https://ecopulse-dashboard.netlify.app/) ・ 📂 [**Source**](https://github.com/Salvero/ecopulse-dashboard) | 🔗 [**Live Demo**](https://syncspace-app-ashen.vercel.app/) ・ 📂 [**Source**](https://github.com/Salvero/SyncSpace) |
 
@@ -36,52 +38,61 @@ Currently, I am focused on:
 | **Growhause Plants** | **AppointHub** |
 | :--- | :--- |
 | <a href="https://growhaus-plants.netlify.app/"><img src="assets/growhaus-home.png" width="100%" height="200" alt="Growhause"></a> | <a href="https://appointhub.onrender.com/"><img src="assets/appointhub-dashboard.png" width="100%" height="200" alt="AppointHub"></a> |
-| **E-Commerce Architecture** | **Appointment Scheduling Platform** |
+| <strong>E-Commerce Architecture</strong> | <strong>Appointment Scheduling Platform</strong> |
 | A modern e-commerce solution featuring a custom shopping cart implementation, complex state management, and optimized asset delivery for high-traffic scalability. | A full-stack scheduling solution for service businesses. Features analytics dashboard with revenue tracking, staff management, customer database, and booking workflows for seamless operations. |
 | 🔗 [**Live Demo**](https://growhaus-plants.netlify.app/) ・ 📂 [**Source**](https://github.com/Salvero/growhaus-plants) | 🔗 [**Live Demo**](https://appointhub.onrender.com/) ・ 📂 [**Source**](https://github.com/Salvero/AppointHub) |
 
----
+<br/>
 
-### 💻 Technical Expertise
+## 💻 Technical Expertise
 
-Instead of just using tools, I select the right stack for the job. Here is my preferred heavy artillery:
+<p>Instead of just using tools, I select the right stack for the job. Here is my preferred heavy artillery:</p>
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Frontend Architecture** | JavaScript (ES6+), TypeScript, React, Next.js, Redux Toolkit |
-| **Backend & API** | Node.js, Express, Python, REST Architecture, GraphQL, JSON |
-| **Styling & UI** | Tailwind CSS, SCSS, Material UI, ShadCN UI, TweakCN, Mobbin, Framer Motion |
-| **Tooling & Workflow** | Git, GitHub, Vercel/Netlify, Cursor, AI-Assisted Development |
+| <strong>Frontend Architecture</strong> | `JavaScript (ES6+)` `TypeScript` `React` `Next.js` `Redux Toolkit` |
+| <strong>Backend & API</strong> | `Node.js` `Express` `Python` `REST Architecture` `GraphQL` `JSON` |
+| <strong>Styling & UI</strong> | `Tailwind CSS` `SCSS` `Material UI` `ShadCN UI` `TweakCN` `Mobbin` `Framer Motion` |
+| <strong>Tooling & Workflow</strong> | `Git` `GitHub` `Vercel/Netlify` `Cursor` `AI-Assisted Development` |
 
----
+<br/>
 
-### 🤖 Claude Code Usage — AI-Augmented Development
+## 🤖 Claude Code Usage — AI-Augmented Development
 
-Every project in my portfolio was architected and shipped using **Claude Code** as my primary AI pair-programming tool.
+<p>Every project in my portfolio was architected and shipped using <strong>Claude Code</strong> as my primary AI pair-programming tool.</p>
 
 <div align="center">
 
-| 🔢 Total Tokens | 🧠 Favorite Model | 💬 Sessions | ⏱ Longest Session |
-| :---: | :---: | :---: | :---: |
-| **1.1M** | **Opus 4.5** | **80** | **9h 41m** |
+![Total Tokens](https://img.shields.io/badge/Total_Tokens-1.1M-DA6F2B?style=for-the-badge&logo=anthropic&logoColor=white)
+![Model](https://img.shields.io/badge/Favorite_Model-Opus_4.5-DA6F2B?style=for-the-badge&logo=anthropic&logoColor=white)
+![Sessions](https://img.shields.io/badge/Sessions-80-DA6F2B?style=for-the-badge&logo=anthropic&logoColor=white)
 
-| 📅 Active Days | 🔥 Longest Streak | 📆 Most Active Day |
-| :---: | :---: | :---: |
-| **23 / 53** | **6 days** | **Dec 8** |
+![Longest Session](https://img.shields.io/badge/Longest_Session-9h_41m-1a1a2e?style=for-the-badge)
+![Active Days](https://img.shields.io/badge/Active_Days-23_/_53-1a1a2e?style=for-the-badge)
+![Longest Streak](https://img.shields.io/badge/Longest_Streak-6_days-1a1a2e?style=for-the-badge)
+
+<br/>
+
+<img src="assets/claude-code-stats.jpg" width="80%" alt="Claude Code Usage Statistics" />
+
+<br/>
+
+<samp>I don't just use AI — I leverage it as a force multiplier to ship production-grade code faster, debug smarter, and architect scalable systems from day one.</samp>
 
 </div>
 
-<img src="assets/claude-code-stats.jpg" width="100%" alt="Claude Code Usage Statistics" />
-
-> I don't just *use* AI — I leverage it as a force multiplier to ship production-grade code faster, debug smarter, and architect scalable systems from day one.
+<br/>
 
 ---
 
 <div align="center">
-  <p><i>Open to discussions regarding Full-Stack & Frontend Engineering roles.</i></p>
-  <p><b>Let's build something scalable together.</b></p>
-  
-  <br/>
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/salmanakram-7i)
+
+<h4>Open to discussions regarding Full-Stack & Frontend Engineering roles.</h4>
+
+<p><strong>Let's build something scalable together.</strong></p>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salmanakram-7i)
+
 </div>
