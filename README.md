@@ -55,11 +55,23 @@ Instead of just using tools, I select the right stack for the job. Here is my pr
 
 ---
 
-### 🌱 Currently Learning
+### 🤖 Claude Code Usage — AI-Augmented Development
 
-- **Go** — Building high-performance backend services
-- **PostgreSQL** — Advanced query optimization & database design
-- **AWS Lambda** — Serverless architecture patterns
+Every project in my portfolio was architected and shipped using **Claude Code** as my primary AI pair-programming tool.
+
+<div align="center">
+
+| 🔢 Total Tokens | 🧠 Favorite Model | 💬 Sessions | ⏱ Longest Session |
+| :---: | :---: | :---: | :---: |
+| **1.1M** | **Opus 4.5** | **80** | **9h 41m** |
+
+| 📅 Active Days | 🔥 Longest Streak | 📆 Most Active Day |
+| :---: | :---: | :---: |
+| **23 / 53** | **6 days** | **Dec 8** |
+
+</div>
+
+> I don't just *use* AI — I leverage it as a force multiplier to ship production-grade code faster, debug smarter, and architect scalable systems from day one.
 
 ---
 
