@@ -26,19 +26,18 @@
 
 ## 🛠 Featured Projects
 
-| **EcoPulse Dashboard** | **SyncSpace** |
+| **EcoPulse Dashboard** |
 | :--- | :--- |
-| <a href="https://ecopulse-dashboard.netlify.app/"><img src="assets/ecopulse-dashboard.png" width="100%" height="200" alt="EcoPulse"></a> | <a href="https://syncspace-app-ashen.vercel.app/"><img src="assets/syncspace-canvas.png?v=2" width="100%" height="200" alt="SyncSpace"></a> |
-| <strong>AI Energy Analytics Platform</strong> | <strong>Real-time Collaborative Canvas</strong> |
-| A full-stack AI dashboard with LSTM neural network for energy forecasting. Features real-time WebSocket telemetry, multi-city tracking, and dynamic data visualization with dark/light themes. | An AI-powered brainstorming canvas with infinite workspace, real-time multi-user sync, and keyboard-first interactions. Enables rapid ideation with zero friction and smart note generation. |
+| <a href="https://ecopulse-dashboard.netlify.app/"><img src="assets/ecopulse-dashboard.png" width="100%" height="200" alt="EcoPulse"></a>
+| <strong>AI Energy Analytics Platform</strong> 
+| A full-stack AI dashboard with LSTM neural network for energy forecasting. Features real-time WebSocket telemetry, multi-city tracking, and dynamic data visualization with dark/light themes.
 | 🔗 [**Live Demo**](https://ecopulse-dashboard.netlify.app/) ・ 📂 [**Source**](https://github.com/Salvero/ecopulse-dashboard)
 <br/>
 
-| **Growhause Plants** | **AppointHub** |
+| **Growhause Plants**
 | :--- | :--- |
-| <a href="https://growhaus-plants.netlify.app/"><img src="assets/growhaus-home.png" width="100%" height="200" alt="Growhause"></a> | <a href="https://appointhub.onrender.com/"><img src="assets/appointhub-dashboard.png" width="100%" height="200" alt="AppointHub"></a> |
-| <strong>E-Commerce Architecture</strong> | <strong>Appointment Scheduling Platform</strong> |
-| A modern e-commerce solution featuring a custom shopping cart implementation, complex state management, and optimized asset delivery for high-traffic scalability. | A full-stack scheduling solution for service businesses. Features analytics dashboard with revenue tracking, staff management, customer database, and booking workflows for seamless operations. |
+| <a href="https://growhaus-plants.netlify.app/"><img src="assets/growhaus-home.png" width="100%" height="200" alt="Growhause"></a>
+| <strong>E-Commerce Architecture</strong> | <strong>Appointment Scheduling Platform</strong>
 | 🔗 [**Live Demo**](https://growhaus-plants.netlify.app/) ・ 📂 [**Source**](https://github.com/Salvero/growhaus-plants)
 
 <br/>
