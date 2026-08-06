@@ -26,19 +26,16 @@
 
 ## 🛠 Featured Projects
 
-| **EcoPulse Dashboard** |
-| :--- | :--- |
-| <a href="https://ecopulse-dashboard.netlify.app/"><img src="assets/ecopulse-dashboard.png" width="100%" height="200" alt="EcoPulse"></a>
-| <strong>AI Energy Analytics Platform</strong> 
-| A full-stack AI dashboard with LSTM neural network for energy forecasting. Features real-time WebSocket telemetry, multi-city tracking, and dynamic data visualization with dark/light themes.
-| 🔗 [**Live Demo**](https://ecopulse-dashboard.netlify.app/) ・ 📂 [**Source**](https://github.com/Salvero/ecopulse-dashboard)
+**EcoPulse Dashboard**
+<strong>AI Energy Analytics Platform</strong> 
+A full-stack AI dashboard with LSTM neural network for energy forecasting. Features real-time WebSocket telemetry, multi-city tracking, and dynamic data visualization with dark/light themes.
+🔗 [**Live Demo**](https://ecopulse-dashboard.netlify.app/) ・ 📂 [**Source**](https://github.com/Salvero/ecopulse-dashboard)
 <br/>
 
-| **Growhause Plants**
-| :--- | :--- |
-| <a href="https://growhaus-plants.netlify.app/"><img src="assets/growhaus-home.png" width="100%" height="200" alt="Growhause"></a>
-| <strong>E-Commerce Architecture</strong> | <strong>Appointment Scheduling Platform</strong>
-| 🔗 [**Live Demo**](https://growhaus-plants.netlify.app/) ・ 📂 [**Source**](https://github.com/Salvero/growhaus-plants)
+**Growhause Plants**
+<a href="https://growhaus-plants.netlify.app/"><img src="assets/growhaus-home.png" width="100%" height="200" alt="Growhause"></a>
+<strong>E-Commerce Architecture</strong> | <strong>Appointment Scheduling Platform</strong>
+🔗 [**Live Demo**](https://growhaus-plants.netlify.app/) ・ 📂 [**Source**](https://github.com/Salvero/growhaus-plants)
 
 <br/>
 
